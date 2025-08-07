@@ -40,6 +40,8 @@
         "co.median.android.ljnaek",
         "com.danismithproductions.yidkit",
         "fm.jewishmusic.application"
+        "mdy.shiurim.com"
+        "com.yiddish24"
       ]
     },
     {
@@ -58,6 +60,11 @@
         "in.krosbits.musicolet",
         "tz.co.wadau.allpdf",
         "com.riteshsahu.SMSBackupRestore"
+        "com.cxinventor.file.explorer"
+        "com.coveragemap.coveragemap"
+        "io.github.sspanak.tt9"
+        "com.treefrogapps.audio.tageditor"
+        "com.fillobotto.mp3tagger"
       ]
     },
     {
@@ -72,6 +79,9 @@
         "com.google.android.apps.googlevoice",
         "com.Splitwise.SplitwiseMobile",
         "com.waveapps.sales"
+        "com.ilovepdf.www"
+        "com.adobe.scan.android"
+        "com.adobe.reader"
       ]
     },
     {
@@ -124,3 +134,4 @@
     }
   ]
 }
+
